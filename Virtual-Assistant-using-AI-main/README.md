@@ -38,6 +38,3 @@ $ (venv) python chat.py
 ## To start the Flask app:
 Run the app.py (after downloading all required libraries)
 
-## Credits:
-This repo was used for the frontend code:
-https://github.com/hitchcliff/front-end-chatjs
